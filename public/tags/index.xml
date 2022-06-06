@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on BSV Barcelona</title>
+        <link>https://ignatmaldive.github.io/bsv_bcn_meetup/tags/</link>
+        <description>Recent content in Tags on BSV Barcelona</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ignatmaldive.github.io/bsv_bcn_meetup/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>220609_meetup</title>
+        <link>https://ignatmaldive.github.io/bsv_bcn_meetup/tags/220609_meetup/</link>
+        <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/bsv_bcn_meetup/tags/220609_meetup/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>events</title>
+        <link>https://ignatmaldive.github.io/bsv_bcn_meetup/tags/events/</link>
+        <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/bsv_bcn_meetup/tags/events/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>search</title>
+        <link>https://ignatmaldive.github.io/bsv_bcn_meetup/tags/search/</link>
+        <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/bsv_bcn_meetup/tags/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>dev</title>
+        <link>https://ignatmaldive.github.io/bsv_bcn_meetup/tags/dev/</link>
+        <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/bsv_bcn_meetup/tags/dev/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>microcontroller</title>
+        <link>https://ignatmaldive.github.io/bsv_bcn_meetup/tags/microcontroller/</link>
+        <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/bsv_bcn_meetup/tags/microcontroller/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

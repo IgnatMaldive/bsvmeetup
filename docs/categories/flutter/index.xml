@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Flutter on BSV Barcelona</title>
+        <link>https://ignatmaldive.github.io/bsv_bcn_meetup/categories/flutter/</link>
+        <description>Recent content in Flutter on BSV Barcelona</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ignatmaldive.github.io/bsv_bcn_meetup/categories/flutter/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Flutter/Dart and BSV</title>
+        <link>https://ignatmaldive.github.io/bsv_bcn_meetup/p/flutter/dart-and-bsv/</link>
+        <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://ignatmaldive.github.io/bsv_bcn_meetup/p/flutter/dart-and-bsv/</guid>
+        <description>&lt;img src="https://ignatmaldive.github.io/bsv_bcn_meetup/p/flutter/dart-and-bsv/wallet.jpg" alt="Featured image of post Flutter/Dart and BSV" /&gt;&lt;h2 id=&#34;lorem-ipsum&#34;&gt;Lorem Ipsum&lt;/h2&gt;
+&lt;p&gt;Lorem Ipsum ist ein Platzhaltertext der häufig verwendet wird um Layouts und visuelle Mockups in der Druck-, Grafik- und Verlagsindustrie zu betrachten.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;mane-refeci-capiebant-unda-mulcebat&#34;&gt;Mane refeci capiebant unda mulcebat&lt;/h2&gt;
+
+</description>
+        </item>
+        
+    </channel>
+</rss>
